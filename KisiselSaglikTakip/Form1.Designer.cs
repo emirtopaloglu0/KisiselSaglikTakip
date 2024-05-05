@@ -302,7 +302,7 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Image = global::KisiselSaglikTakip.Properties.Resources.Bisiklet;
+            this.pictureBox3.Image = global::KisiselSaglikTakip.Properties.Resources.yuruyusbandi;
             this.pictureBox3.Location = new System.Drawing.Point(198, 3);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(182, 124);
