@@ -20,12 +20,27 @@ namespace KisiselSaglikTakip.Mesajlar
 
         public void ConfirmUser()
         {
-            res = MessageBox.Show("Kullanıcı adını onaylıyor musunuz?", "Dikkat!", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            res = MessageBox.Show("Kullanıcı Adını Onaylıyor Musunuz?", "Dikkat!", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+        }
+
+        internal void EgzersizIptal()
+        {
+            res = MessageBox.Show("Egzersizi İptal Etmek İstediğinize Emin Misiniz?", "Dikkat!", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
         }
 
         internal void Logout()
         {
-            res = MessageBox.Show("Kullanıcıyı değiştirmek istediğinize emin misiniz?", "Dikkat!", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            res = MessageBox.Show("Kullanıcıyı Değiştirmek İstediğinize Emin Misiniz?", "Dikkat!", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+        }
+
+        internal void RaporlarListTemizle()
+        {
+            res = MessageBox.Show("Raporlar Listesini Temizlemek İstediğinize Emin Misiniz?", "Dikkat!", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+        }
+
+        internal void YapilacaklarListesiTemizle()
+        {
+            res = MessageBox.Show("Yapılacaklar Listesi Temizlensin mi?", "Dikkat!", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
         }
     }
 }
