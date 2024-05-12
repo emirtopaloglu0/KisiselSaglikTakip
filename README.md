@@ -5,6 +5,7 @@ Egzersizleri sıraya ekleyip, süreyi belirleyip, sıralı bir şekilde yapabili
 - **Nesne Yönelimli Programlama**: Projemiz, nesne yönelimli programlama prensiplerine dayalı olarak geliştirilmiştir, bu da kodun daha anlaşılır ve yeniden kullanılabilir olmasını sağlar.
 - **LINQ**: Dil geişleme sorgu ile veritabanı işlemleri yapılmıştır, bu da veritabanı sorgularının daha kolay ve anlaşılır olmasını sağlar.
 - **Resim & Dosya Yükleme İşlemleri**: Kullanıcıların resim ve dosyalarını yüklemelerini sağlayan işlevsellik eklenmiştir.
+  
 ![solution](https://github.com/emirtopaloglu0/KisiselSaglikTakip/assets/147405225/1afc8887-af09-4b96-b03e-36918fc7efbb)
 
 ## Uygulama İçinden Görüntüler
