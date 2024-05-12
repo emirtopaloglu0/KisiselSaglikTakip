@@ -1,4 +1,4 @@
-# Kişisel Sağlık Takip Uygumalası
+# Kişisel Sağlık Takip Uygulaması
 Egzersizleri sıraya ekleyip, süreyi belirleyip, sıralı bir şekilde yapabilirsiniz. Sonra raporlarınızı inceleyebilirsiniz.
 
 ## Kullanılan Araçlar
